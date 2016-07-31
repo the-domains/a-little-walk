@@ -1,0 +1,14 @@
+layout_spectrum: 0.03189641400240362
+typography_spectrum: 0.17787474836222827
+color:
+  brandStrength: 0.03561158594675362
+  lightness: 0.8944888180121779
+  saturation: 0.5828741143923253
+  rhythmicContrast: 0.40089869732037187
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: A Little Walk
