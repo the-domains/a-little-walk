@@ -1,15 +1,14 @@
-layout_spectrum: 0.03189641400240362
-typography_spectrum: 0.17787474836222827
 color:
+  brandColors:
+    - '#000000'
+    - '#EDECEC'
+    - '#3A3939'
+    - '#B7B6B6'
+    - '#818080'
   brandStrength: 0.03561158594675362
   lightness: 0.8944888180121779
-  saturation: 0.5828741143923253
   rhythmicContrast: 0.40089869732037187
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+  saturation: 0.5828741143923253
+layout_spectrum: 0.929899
 name: A Little Walk
-description: 'Look up, look down, look around...'
+typography_spectrum: 0.121622
