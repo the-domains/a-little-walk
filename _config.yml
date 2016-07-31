@@ -1,3 +1,4 @@
+typography_spectrum: 0.090372
 color:
   brandColors:
     - '#71A7FE'
@@ -12,4 +13,4 @@ color:
 layout_spectrum: 0.03189641400240362
 name: A Little Walk
 title: A Little Walk
-typography_spectrum: 0.090372
+description: 'Look up, look down, look around...'
